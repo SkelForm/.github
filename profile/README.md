@@ -22,3 +22,4 @@ Below is a (not exhaustive) list of runtimes maintained by the community.
 ## Miscellaneous
 
 - [GD-SWF](https://github.com/MudkipWorld/GD-SWF) - A general Shockwave Flash (SWF) converter with support for SkelForm
+- [spine2skf](https://github.com/rafucuk/spine2skf) - Converter from Spine2D to SkelForm. As of 15/06/26, only Essential features are supported
