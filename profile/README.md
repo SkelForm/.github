@@ -1,5 +1,3 @@
-# SkelForm
-
 SkelForm is a free & open-source 2D skeletal animator, designed for easy integration into games.
 
 ## Editor
