@@ -8,7 +8,7 @@ Forks and/or 3rd-party editors are welcome, though no documentation is provided 
 
 ## Official Runtimes
 
-Check out the [runtime tables](https://skelform.org/#runtimes) for a list of runtimes created and maintained by SkelForm's developer ([Retropaint](https://github.com/retropaint)]. These are often the first to be updated and can be used as references for developing your own runtimes.
+Check out the [runtime tables](https://skelform.org/#runtimes) for a list of runtimes created and maintained by SkelForm's developer ([Retropaint](https://github.com/retropaint)). These are often the first to be updated and can be used as references for developing your own runtimes.
 
 ## Community Runtimes
 
@@ -21,5 +21,5 @@ Below is a (not exhaustive) list of runtimes maintained by the community.
 
 ## Miscellaneous
 
-- [GD-SWF](https://github.com/MudkipWorld/GD-SWF) - A general Shockwave Flash (SWF) converter with support for SkelForm
-- [spine2skf](https://github.com/rafucuk/spine2skf) - Converter from Spine2D to SkelForm. As of 15/06/26, only Essential features are supported
+- [GD-SWF](https://github.com/MudkipWorld/GD-SWF) - A general-purpose Shockwave Flash (SWF) converter, with support for SkelForm
+- [spine2skf](https://github.com/rafucuk/spine2skf) - Converter from Spine2D to SkelForm. As of 15/06/26, only Essential features are supported for conversion
